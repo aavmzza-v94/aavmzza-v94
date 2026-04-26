@@ -50,4 +50,4 @@ PostgreSQL • SQL Server • Docker • Git
 
 ## 📫 Connect with me
 
-* LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/agustin-villarreal-651a65285/?locale=en_US)
+* LinkedIn: https://www.linkedin.com/in/agustin-villarreal-651a65285/?locale=en_US
