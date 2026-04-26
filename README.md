@@ -1,6 +1,6 @@
 # 👨‍💻 Agustin Villarreal
 
-## 💻 Backend & Full-Stack Developer
+## 💻 Full-Stack Developer
 
 I am Agustin Villarreal, Electronics Engineer from Paraguay, focused on building **secure, scalable, and business-oriented systems**.
 I work mainly on backend development and enjoy creating solutions that integrate **automation, data, and real-world processes**.
