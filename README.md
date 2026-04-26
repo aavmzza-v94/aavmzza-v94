@@ -18,7 +18,7 @@ I work mainly on backend development and enjoy creating solutions that integrate
 
 * Backend with **Java (Spring Boot, Jakarta EE)**
 * Backend with **Python (Django, FastAPI)**
-* REST APIs, SOAP, GraphQL
+* REST APIs, SOAP, Swagger, Nelmio
 * Databases: PostgreSQL, SQL Server, MySQL, MongoDB
 * Frontend with Angular, React, JavaScript
 * Docker & containerization
