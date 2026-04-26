@@ -29,6 +29,7 @@ I work mainly on backend development and enjoy creating solutions that integrate
 * Web scraping & data processing (Python)
 * IoT integration & automation
 * Software architectures (MVC, layered, enterprise)
+* PHP / Symfony Framework / Twig Templates
 
 ---
 
